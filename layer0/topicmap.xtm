@@ -261,82 +261,6 @@
 			</variant>
 		</name>
 	</topic>
-	<topic id="core--wandora-class">
-		<subjectIdentifier href="http://wandora.org/si/core/wandora-class"/>
-		<instanceOf>
-			<topicRef href="#core--schema-type"/>
-		</instanceOf>
-		<name>
-			<value>Wandora class</value>
-			<variant>
-				<scope>
-					<topicRef href="#xtm--1.0--core.xtm--display"/>
-					<topicRef href="#xtm--1.0--language.xtm--en"/>
-				</scope>
-				<resourceData>Wandora class</resourceData>
-			</variant>
-		</name>
-		<occurrence>
-			<type>
-				<topicRef href="#core--hide-level"/>
-			</type>
-			<scope>
-				<topicRef href="#core--lang-independent"/>
-			</scope>
-			<resourceData>1</resourceData>
-		</occurrence>
-	</topic>
-	<topic id="xtm--1.0--language.xtm--es">
-		<subjectIdentifier href="http://www.topicmaps.org/xtm/1.0/language.xtm#es"/>
-		<instanceOf>
-			<topicRef href="#core--language"/>
-		</instanceOf>
-		<name>
-			<value>Spanish language</value>
-			<variant>
-				<scope>
-					<topicRef href="#xtm--1.0--core.xtm--display"/>
-					<topicRef href="#xtm--1.0--language.xtm--sv"/>
-				</scope>
-				<resourceData>spanska</resourceData>
-			</variant>
-			<variant>
-				<scope>
-					<topicRef href="#xtm--1.0--core.xtm--display"/>
-					<topicRef href="#xtm--1.0--language.xtm--de"/>
-				</scope>
-				<resourceData>Spanisch</resourceData>
-			</variant>
-			<variant>
-				<scope>
-					<topicRef href="#xtm--1.0--core.xtm--display"/>
-					<topicRef href="#xtm--1.0--language.xtm--es"/>
-				</scope>
-				<resourceData>español</resourceData>
-			</variant>
-			<variant>
-				<scope>
-					<topicRef href="#xtm--1.0--core.xtm--display"/>
-					<topicRef href="#xtm--1.0--language.xtm--en"/>
-				</scope>
-				<resourceData>Spanish</resourceData>
-			</variant>
-			<variant>
-				<scope>
-					<topicRef href="#xtm--1.0--language.xtm--fr"/>
-					<topicRef href="#xtm--1.0--core.xtm--display"/>
-				</scope>
-				<resourceData>espagnol</resourceData>
-			</variant>
-			<variant>
-				<scope>
-					<topicRef href="#xtm--1.0--core.xtm--display"/>
-					<topicRef href="#xtm--1.0--language.xtm--fi"/>
-				</scope>
-				<resourceData>espanja</resourceData>
-			</variant>
-		</name>
-	</topic>
 	<topic id="core--language">
 		<subjectIdentifier href="http://wandora.org/si/core/language"/>
 		<subjectIdentifier href="http://www.topicmaps.org/xtm/1.0/language.xtm"/>
@@ -456,6 +380,57 @@
 			</variant>
 		</name>
 	</topic>
+	<topic id="xtm--1.0--language.xtm--es">
+		<subjectIdentifier href="http://www.topicmaps.org/xtm/1.0/language.xtm#es"/>
+		<instanceOf>
+			<topicRef href="#core--language"/>
+		</instanceOf>
+		<name>
+			<value>Spanish language</value>
+			<variant>
+				<scope>
+					<topicRef href="#xtm--1.0--core.xtm--display"/>
+					<topicRef href="#xtm--1.0--language.xtm--sv"/>
+				</scope>
+				<resourceData>spanska</resourceData>
+			</variant>
+			<variant>
+				<scope>
+					<topicRef href="#xtm--1.0--core.xtm--display"/>
+					<topicRef href="#xtm--1.0--language.xtm--de"/>
+				</scope>
+				<resourceData>Spanisch</resourceData>
+			</variant>
+			<variant>
+				<scope>
+					<topicRef href="#xtm--1.0--core.xtm--display"/>
+					<topicRef href="#xtm--1.0--language.xtm--es"/>
+				</scope>
+				<resourceData>español</resourceData>
+			</variant>
+			<variant>
+				<scope>
+					<topicRef href="#xtm--1.0--core.xtm--display"/>
+					<topicRef href="#xtm--1.0--language.xtm--en"/>
+				</scope>
+				<resourceData>Spanish</resourceData>
+			</variant>
+			<variant>
+				<scope>
+					<topicRef href="#xtm--1.0--language.xtm--fr"/>
+					<topicRef href="#xtm--1.0--core.xtm--display"/>
+				</scope>
+				<resourceData>espagnol</resourceData>
+			</variant>
+			<variant>
+				<scope>
+					<topicRef href="#xtm--1.0--core.xtm--display"/>
+					<topicRef href="#xtm--1.0--language.xtm--fi"/>
+				</scope>
+				<resourceData>espanja</resourceData>
+			</variant>
+		</name>
+	</topic>
 	<topic id="xtm--1.0--language.xtm--fr">
 		<subjectIdentifier href="http://www.topicmaps.org/xtm/1.0/language.xtm#fr"/>
 		<instanceOf>
@@ -558,15 +533,6 @@
 			</variant>
 		</name>
 	</topic>
-	<topic id="core--default-occurrence">
-		<subjectIdentifier href="http://wandora.org/si/core/default-occurrence"/>
-		<instanceOf>
-			<topicRef href="#core-occurrence-type"/>
-		</instanceOf>
-		<name>
-			<value>Default occurrence</value>
-		</name>
-	</topic>
 	<topic id="core-occurrence-type">
 		<subjectIdentifier href="http://wandora.org/si/core/occurrence-type"/>
 		<instanceOf>
@@ -594,6 +560,40 @@
 			</scope>
 			<resourceData>1</resourceData>
 		</occurrence>
+	</topic>
+	<topic id="core--wandora-class">
+		<subjectIdentifier href="http://wandora.org/si/core/wandora-class"/>
+		<instanceOf>
+			<topicRef href="#core--schema-type"/>
+		</instanceOf>
+		<name>
+			<value>Wandora class</value>
+			<variant>
+				<scope>
+					<topicRef href="#xtm--1.0--core.xtm--display"/>
+					<topicRef href="#xtm--1.0--language.xtm--en"/>
+				</scope>
+				<resourceData>Wandora class</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#core--hide-level"/>
+			</type>
+			<scope>
+				<topicRef href="#core--lang-independent"/>
+			</scope>
+			<resourceData>1</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="core--default-occurrence">
+		<subjectIdentifier href="http://wandora.org/si/core/default-occurrence"/>
+		<instanceOf>
+			<topicRef href="#core-occurrence-type"/>
+		</instanceOf>
+		<name>
+			<value>Default occurrence</value>
+		</name>
 	</topic>
 	<topic id="xtm--1.0--core.xtm--sort">
 		<subjectIdentifier href="http://www.topicmaps.org/xtm/1.0/core.xtm#sort"/>
