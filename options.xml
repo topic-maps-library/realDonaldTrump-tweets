@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<options>
+   <layer0>
+      <name>Base</name>
+      <type>org.wandora.topicmap.memory.TopicMapImpl</type>
+      <visiblity>true</visiblity>
+      <readonly>false</readonly>
+   </layer0>
+   <layer1>
+      <name>realDonaldTrump</name>
+      <type>org.wandora.topicmap.memory.TopicMapImpl</type>
+      <visiblity>true</visiblity>
+      <readonly>false</readonly>
+      <selected>true</selected>
+   </layer1>
+</options>
