@@ -2025,6 +2025,1769 @@ https://t.co/vjZkGTyQb9</resourceData>
 			<resourceData>2017-04-17 03:45:01</resourceData>
 		</occurrence>
 	</topic>
+	<topic id="topic0.1494434495380">
+		<subjectIdentifier href="http://wandora.org/si/twitter-search/1494434495380"/>
+		<instanceOf>
+			<topicRef href="#topic9464.1493218750290"/>
+		</instanceOf>
+		<name>
+			<value>Twitter search 1494434495380</value>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9465.1493218750290"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-10 19:41:35</resourceData>
+		</occurrence>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9467.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>from:@realDonaldTrump</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic1.1494434495981">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/862290442129461249"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>The Roger Stone report on @CNN is false - Fake News. Have not spoken to Roger in a long time - had nothing to do with my decision. (862290442129461249)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>The Roger Stone report on @CNN is false - Fake News. Have not spoken to Roger in a long time - had nothing to do with my decision.</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-10 15:57:16</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic2.1494434495984">
+		<subjectIdentifier href="http://wandora.org/date/2017-05-10"/>
+		<instanceOf>
+			<topicRef href="#topic9474.1493218750812"/>
+		</instanceOf>
+		<name>
+			<value>2017-05-10</value>
+		</name>
+	</topic>
+	<topic id="topic3.1494434495984">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/862286091759611905"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>caught, he cried like a baby and begged for forgiveness...and now he is judge &amp; jury. He should be the one who is investigated for his acts. (862286091759611905)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>caught, he cried like a baby and begged for forgiveness...and now he is judge &amp; jury. He should be the one who is investigated for his acts.</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-10 15:39:59</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic4.1494434495985">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/862283792559616000"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>years, as a pol in Connecticut, Blumenthal would talk of his great bravery and conquests in Vietnam - except he was never there. When.... (862283792559616000)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>years, as a pol in Connecticut, Blumenthal would talk of his great bravery and conquests in Vietnam - except he was never there. When....</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-10 15:30:51</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic5.1494434495985">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/862282202188566529"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>Watching Senator Richard Blumenthal speak of Comey is a joke. &#34;Richie&#34; devised one of the greatest military frauds in U.S. history. For.... (862282202188566529)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>Watching Senator Richard Blumenthal speak of Comey is a joke. &#34;Richie&#34; devised one of the greatest military frauds in U.S. history. For....</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-10 15:24:32</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic6.1494434495986">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/862268135944192000"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>RT @DRUDGE_REPORT: 10 SCANDALS ON DIRECTOR'S WATCH... https://t.co/dnGY08wTBP (862268135944192000)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>RT @DRUDGE_REPORT: 10 SCANDALS ON DIRECTOR'S WATCH... https://t.co/dnGY08wTBP</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-10 14:28:38</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic7.1494434495987">
+		<subjectIdentifier href="http://bit.ly/2qqMQlq"/>
+		<instanceOf>
+			<topicRef href="#topic9479.1493218750813"/>
+		</instanceOf>
+	</topic>
+	<topic id="topic8.1494434495988">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/862267781336752128"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>Comey lost the confidence of almost everyone in Washington, Republican and Democrat alike. When things calm down, they will be thanking me! (862267781336752128)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>Comey lost the confidence of almost everyone in Washington, Republican and Democrat alike. When things calm down, they will be thanking me!</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-10 14:27:13</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic9.1494434495989">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/862266225157689349"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>RT @DRUDGE_REPORT: MEXICO 2ND DEADLIEST COUNTRY; TOPS AFGHAN, IRAQ... https://t.co/i4FtSpLiHV (862266225157689349)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>RT @DRUDGE_REPORT: MEXICO 2ND DEADLIEST COUNTRY; TOPS AFGHAN, IRAQ... https://t.co/i4FtSpLiHV</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-10 14:21:02</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic10.1494434495989">
+		<subjectIdentifier href="http://cnn.it/2qoecZn"/>
+		<instanceOf>
+			<topicRef href="#topic9479.1493218750813"/>
+		</instanceOf>
+	</topic>
+	<topic id="topic11.1494434495990">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/862265729718128641"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>James Comey will be replaced by someone who will do a far better job, bringing back the spirit and prestige of the FBI. (862265729718128641)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>James Comey will be replaced by someone who will do a far better job, bringing back the spirit and prestige of the FBI.</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-10 14:19:04</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic12.1494434495990">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/862263649821503489"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>The Democrats have said some of the worst things about James Comey, including the fact that he should be fired, but now they play so sad! (862263649821503489)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>The Democrats have said some of the worst things about James Comey, including the fact that he should be fired, but now they play so sad!</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-10 14:10:48</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic13.1494434495991">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/862135824745467905"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>Cryin' Chuck Schumer stated recently, &#34;I do not have confidence in him (James Comey) any longer.&#34; Then acts so indignant.  #draintheswamp (862135824745467905)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>Cryin' Chuck Schumer stated recently, &#34;I do not have confidence in him (James Comey) any longer.&#34; Then acts so indignant.  #draintheswamp</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-10 05:42:52</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic14.1494434495991">
+		<subjectIdentifier href="http://twitter.com/search?q=draintheswamp"/>
+		<instanceOf>
+			<topicRef href="#topic9495.1493218750814"/>
+		</instanceOf>
+		<name>
+			<value>draintheswamp</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>draintheswamp</resourceData>
+			</variant>
+		</name>
+	</topic>
+	<topic id="topic15.1494434495992">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/862059314277748736"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>'Manufacturing openings, hires rise to highest levels of the recovery'
+https://t.co/txFZDYYIOe (862059314277748736)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>'Manufacturing openings, hires rise to highest levels of the recovery'
+https://t.co/txFZDYYIOe</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-10 00:38:51</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic16.1494434495992">
+		<subjectIdentifier href="http://washingtonexaminer.com/manufacturing-…"/>
+		<instanceOf>
+			<topicRef href="#topic9479.1493218750813"/>
+		</instanceOf>
+	</topic>
+	<topic id="topic17.1494434495992">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/861993986436866049"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>It was an honor to welcome the Teachers of the Year to the WH last month. Today, we honor and thank all teachers!… https://t.co/sAUJfIZCwR (861993986436866049)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>It was an honor to welcome the Teachers of the Year to the WH last month. Today, we honor and thank all teachers!… https://t.co/sAUJfIZCwR</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-09 20:19:16</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic18.1494434495993">
+		<subjectIdentifier href="http://wandora.org/date/2017-05-09"/>
+		<instanceOf>
+			<topicRef href="#topic9474.1493218750812"/>
+		</instanceOf>
+		<name>
+			<value>2017-05-09</value>
+		</name>
+	</topic>
+	<topic id="topic19.1494434495993">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/861715019674910721"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>Biggest story today between Clapper &amp; Yates is on surveillance. Why doesn't the media report on this? #FakeNews! (861715019674910721)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>Biggest story today between Clapper &amp; Yates is on surveillance. Why doesn't the media report on this? #FakeNews!</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-09 01:50:45</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic20.1494434495994">
+		<subjectIdentifier href="http://twitter.com/search?q=FakeNews"/>
+		<instanceOf>
+			<topicRef href="#topic9495.1493218750814"/>
+		</instanceOf>
+		<name>
+			<value>FakeNews</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>FakeNews</resourceData>
+			</variant>
+		</name>
+	</topic>
+	<topic id="topic21.1494434495994">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/861713823505494016"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>The Russia-Trump collusion story is a total hoax, when will this taxpayer funded charade end? (861713823505494016)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>The Russia-Trump collusion story is a total hoax, when will this taxpayer funded charade end?</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-09 01:46:00</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic22.1494434495995">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/861713233786404864"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>Sally Yates made the fake media extremely unhappy today --- she said nothing but old news! (861713233786404864)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>Sally Yates made the fake media extremely unhappy today --- she said nothing but old news!</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-09 01:43:39</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic23.1494434495995">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/861712617299210240"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>Director Clapper reiterated what everybody, including the fake media already knows- there is &#34;no evidence&#34; of collusion w/ Russia and Trump. (861712617299210240)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>Director Clapper reiterated what everybody, including the fake media already knows- there is &#34;no evidence&#34; of collusion w/ Russia and Trump.</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-09 01:41:12</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic24.1494434495996">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/861637456281690113"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>Honored to welcome Georgia Prime Minister, Giorgi Kvirikashvili to the @WhiteHouse today with @VP Mike Pence.… https://t.co/ohXXgTNtWB (861637456281690113)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>Honored to welcome Georgia Prime Minister, Giorgi Kvirikashvili to the @WhiteHouse today with @VP Mike Pence.… https://t.co/ohXXgTNtWB</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-08 20:42:32</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic25.1494434495996">
+		<subjectIdentifier href="http://wandora.org/date/2017-05-08"/>
+		<instanceOf>
+			<topicRef href="#topic9474.1493218750812"/>
+		</instanceOf>
+		<name>
+			<value>2017-05-08</value>
+		</name>
+	</topic>
+	<topic id="topic26.1494434495997">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/861592420043157504"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>Ask Sally Yates, under oath, if she knows how classified information got into the newspapers soon after she explained it to W.H. Counsel. (861592420043157504)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>Ask Sally Yates, under oath, if she knows how classified information got into the newspapers soon after she explained it to W.H. Counsel.</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-08 17:43:35</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic27.1494434495997">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/861550676505219073"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>General Flynn was given the highest security clearance by the Obama Administration - but the Fake News seldom likes talking about that. (861550676505219073)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>General Flynn was given the highest security clearance by the Obama Administration - but the Fake News seldom likes talking about that.</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-08 14:57:42</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic28.1494434495998">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/861544307043467264"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>Congratulations to @PGA_JohnDaly on his big win yesterday. John is a great guy who never gave up - and now a winner again! (861544307043467264)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>Congratulations to @PGA_JohnDaly on his big win yesterday. John is a great guy who never gave up - and now a winner again!</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-08 14:32:24</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic29.1494434495998">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/861541965464207360"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>RT @IsraeliPM: PM Benjamin Netanyahu at  weekly Cabinet meeting:
+In two weeks, Israel will host @POTUS Trump on his first trip as President… (861541965464207360)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>RT @IsraeliPM: PM Benjamin Netanyahu at  weekly Cabinet meeting:
+In two weeks, Israel will host @POTUS Trump on his first trip as President…</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-08 14:23:05</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic30.1494434495999">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/861354654856249344"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>Rexnord of Indiana made a deal during the Obama Administration to move to Mexico. Fired their employees. Tax product big that's sold in U.S. (861354654856249344)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>Rexnord of Indiana made a deal during the Obama Administration to move to Mexico. Fired their employees. Tax product big that's sold in U.S.</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-08 01:58:47</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic31.1494434495999">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/861300169438113793"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>Congratulations to Emmanuel Macron on his big win today as the next President of France. I look very much forward to working with him! (861300169438113793)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>Congratulations to Emmanuel Macron on his big win today as the next President of France. I look very much forward to working with him!</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-07 22:22:17</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic32.1494434496000">
+		<subjectIdentifier href="http://wandora.org/date/2017-05-07"/>
+		<instanceOf>
+			<topicRef href="#topic9474.1493218750812"/>
+		</instanceOf>
+		<name>
+			<value>2017-05-07</value>
+		</name>
+	</topic>
+	<topic id="topic33.1494434496000">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/861201362834665472"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>Republican Senators will not let the American people down! ObamaCare premiums and deductibles are way up - it was a lie and it is dead! (861201362834665472)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>Republican Senators will not let the American people down! ObamaCare premiums and deductibles are way up - it was a lie and it is dead!</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-07 15:49:39</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic34.1494434496000">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/861183225082806272"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>RT @brunelldonald: I thought about jobs that went overseas failing schools open borders not my skin color when I voted @realDonaldTrump! I… (861183225082806272)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>RT @brunelldonald: I thought about jobs that went overseas failing schools open borders not my skin color when I voted @realDonaldTrump! I…</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-07 14:37:35</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic35.1494434496001">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/861178291671244800"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>RT @FoxNews: .@POTUS: &#34;I'm not against the media. I'm against the FAKE media.&#34; #CashinIn https://t.co/F7mBIj7iVL (861178291671244800)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>RT @FoxNews: .@POTUS: &#34;I'm not against the media. I'm against the FAKE media.&#34; #CashinIn https://t.co/F7mBIj7iVL</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-07 14:17:59</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic36.1494434496001">
+		<subjectIdentifier href="http://twitter.com/search?q=CashinIn"/>
+		<instanceOf>
+			<topicRef href="#topic9495.1493218750814"/>
+		</instanceOf>
+		<name>
+			<value>CashinIn</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>CashinIn</resourceData>
+			</variant>
+		</name>
+	</topic>
+	<topic id="topic37.1494434496001">
+		<subjectIdentifier href="http://pic.twitter.com/F7mBIj7iVL"/>
+		<instanceOf>
+			<topicRef href="#topic9477.1493218750813"/>
+		</instanceOf>
+	</topic>
+	<topic id="topic38.1494434496002">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/861177649179373569"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>When will the Fake Media ask about the Dems dealings with Russia &amp; why the DNC wouldn't allow the FBI to check their server or investigate? (861177649179373569)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>When will the Fake Media ask about the Dems dealings with Russia &amp; why the DNC wouldn't allow the FBI to check their server or investigate?</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-07 14:15:26</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic39.1494434496002">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/860987464114110465"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>The reason I am staying in Bedminster, N. J., a beautiful community, is that staying in NYC is much more expensive and disruptive. Meetings! (860987464114110465)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>The reason I am staying in Bedminster, N. J., a beautiful community, is that staying in NYC is much more expensive and disruptive. Meetings!</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-07 01:39:42</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic40.1494434496003">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/860638890570416132"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>Great jobs report today - It is all beginning to work! (860638890570416132)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>Great jobs report today - It is all beginning to work!</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-06 02:34:36</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic41.1494434496003">
+		<subjectIdentifier href="http://wandora.org/date/2017-05-06"/>
+		<instanceOf>
+			<topicRef href="#topic9474.1493218750812"/>
+		</instanceOf>
+		<name>
+			<value>2017-05-06</value>
+		</name>
+	</topic>
+	<topic id="topic42.1494434496003">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/860637673744195584"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>Why is it that the Fake News rarely reports Ocare is on its last legs and that insurance companies are fleeing for their lives? It's dead! (860637673744195584)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>Why is it that the Fake News rarely reports Ocare is on its last legs and that insurance companies are fleeing for their lives? It's dead!</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-06 02:29:45</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic43.1494434496003">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/860635815277453313"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>Wow,the Fake News media did everything in its power to make the Republican Healthcare victory look as bad as possible.Far better than Ocare! (860635815277453313)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>Wow,the Fake News media did everything in its power to make the Republican Healthcare victory look as bad as possible.Far better than Ocare!</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-06 02:22:22</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic44.1494434496004">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/860580764944969728"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>#WeeklyAddress🇺🇸 https://t.co/4qckKpbtCR (860580764944969728)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>#WeeklyAddress🇺🇸 https://t.co/4qckKpbtCR</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-05 22:43:37</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic45.1494434496004">
+		<subjectIdentifier href="http://wandora.org/date/2017-05-05"/>
+		<instanceOf>
+			<topicRef href="#topic9474.1493218750812"/>
+		</instanceOf>
+		<name>
+			<value>2017-05-05</value>
+		</name>
+	</topic>
+	<topic id="topic46.1494434496004">
+		<subjectIdentifier href="http://twitter.com/search?q=WeeklyAddress"/>
+		<instanceOf>
+			<topicRef href="#topic9495.1493218750814"/>
+		</instanceOf>
+		<name>
+			<value>WeeklyAddress</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>WeeklyAddress</resourceData>
+			</variant>
+		</name>
+	</topic>
+	<topic id="topic47.1494434496005">
+		<subjectIdentifier href="http://pic.twitter.com/4qckKpbtCR"/>
+		<instanceOf>
+			<topicRef href="#topic9477.1493218750813"/>
+		</instanceOf>
+	</topic>
+	<topic id="topic48.1494434496005">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/860577873060651008"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>JOBS, JOBS, JOBS! https://t.co/UR0eetSEnO (860577873060651008)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>JOBS, JOBS, JOBS! https://t.co/UR0eetSEnO</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-05 22:32:08</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic49.1494434496005">
+		<subjectIdentifier href="http://pic.twitter.com/UR0eetSEnO"/>
+		<instanceOf>
+			<topicRef href="#topic9477.1493218750813"/>
+		</instanceOf>
+	</topic>
+	<topic id="topic50.1494434496005">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/860573284462669824"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>Of course the Australians have better healthcare than we do --everybody does. ObamaCare is dead! But our healthcare will soon be great. (860573284462669824)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>Of course the Australians have better healthcare than we do --everybody does. ObamaCare is dead! But our healthcare will soon be great.</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-05 22:13:54</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic51.1494434496006">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/860479885566980096"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>Rather than causing a big disruption in N.Y.C., I will be working out of my home in Bedminster, N.J. this weekend. Also saves country money! (860479885566980096)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>Rather than causing a big disruption in N.Y.C., I will be working out of my home in Bedminster, N.J. this weekend. Also saves country money!</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-05 16:02:46</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic52.1494434496006">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/860477328882905089"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>Big win in the House - very exciting! But when everything comes together with the inclusion of Phase 2, we will have truly great healthcare! (860477328882905089)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>Big win in the House - very exciting! But when everything comes together with the inclusion of Phase 2, we will have truly great healthcare!</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-05 15:52:36</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic53.1494434496007">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/860377543878348800"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>An honor to welcome PM of Australia, @TurnbullMalcolm to America &amp; join him in marking the 75th Anniversary of the… https://t.co/foMUec7EAE (860377543878348800)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>An honor to welcome PM of Australia, @TurnbullMalcolm to America &amp; join him in marking the 75th Anniversary of the… https://t.co/foMUec7EAE</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-05 09:16:06</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic54.1494434496007">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/860326946147840001"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>It was a GREAT day for the United States of America! This is a great plan that is a repeal &amp; replace of ObamaCare.… https://t.co/0TnmLn55Lm (860326946147840001)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>It was a GREAT day for the United States of America! This is a great plan that is a repeal &amp; replace of ObamaCare.… https://t.co/0TnmLn55Lm</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-05 05:55:02</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic55.1494434496008">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/860194183797243904"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>If victorious, Republicans will be having a big press conference at the beautiful Rose Garden of the White House immediately after vote! (860194183797243904)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>If victorious, Republicans will be having a big press conference at the beautiful Rose Garden of the White House immediately after vote!</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-04 21:07:29</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic56.1494434496008">
+		<subjectIdentifier href="http://wandora.org/date/2017-05-04"/>
+		<instanceOf>
+			<topicRef href="#topic9474.1493218750812"/>
+		</instanceOf>
+		<name>
+			<value>2017-05-04</value>
+		</name>
+	</topic>
+	<topic id="topic57.1494434496008">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/860191508619722752"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>Insurance companies are fleeing ObamaCare - it is dead. Our healthcare plan will lower premiums &amp; deductibles - and be great healthcare! (860191508619722752)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>Insurance companies are fleeing ObamaCare - it is dead. Our healthcare plan will lower premiums &amp; deductibles - and be great healthcare!</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-04 20:56:51</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic58.1494434496009">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/860188065758838785"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>I am watching the Democrats trying to defend the &#34;you can keep you doctor, you can keep your plan &amp; premiums will go down&#34; ObamaCare lie.&#34; (860188065758838785)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>I am watching the Democrats trying to defend the &#34;you can keep you doctor, you can keep your plan &amp; premiums will go down&#34; ObamaCare lie.&#34;</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-04 20:43:11</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic59.1494434496009">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/860153543151542272"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>Beautiful evening with Religious Leaders here at the WH last night. Join us now for a #NationalDayofPrayer, LIVE:… https://t.co/b8j1tWZJuv (860153543151542272)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>Beautiful evening with Religious Leaders here at the WH last night. Join us now for a #NationalDayofPrayer, LIVE:… https://t.co/b8j1tWZJuv</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-04 18:26:00</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic60.1494434496009">
+		<subjectIdentifier href="http://twitter.com/search?q=NationalDayofPrayer"/>
+		<instanceOf>
+			<topicRef href="#topic9495.1493218750814"/>
+		</instanceOf>
+		<name>
+			<value>NationalDayofPrayer</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>NationalDayofPrayer</resourceData>
+			</variant>
+		</name>
+	</topic>
+	<topic id="topic61.1494434496010">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/860108914624532480"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>Death spiral!
+'Aetna will exit Obamacare markets in VA in 2018, citing expected losses on INDV plans this year'
+https://t.co/5YnzDitF8r (860108914624532480)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>Death spiral!
+'Aetna will exit Obamacare markets in VA in 2018, citing expected losses on INDV plans this year'
+https://t.co/5YnzDitF8r</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-04 15:28:39</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic62.1494434496010">
+		<subjectIdentifier href="http://cnbc.com/2017/05/03/aet…"/>
+		<instanceOf>
+			<topicRef href="#topic9479.1493218750813"/>
+		</instanceOf>
+	</topic>
+	<topic id="topic63.1494434496010">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/860088977277235201"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>RT @foxandfriends: President Trump to sign an executive order on religious liberty today, the National Day of Prayer | @kevincorke https://… (860088977277235201)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>RT @foxandfriends: President Trump to sign an executive order on religious liberty today, the National Day of Prayer | @kevincorke https://…</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-04 14:09:26</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic64.1494434496011">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/860088511202029569"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>Congratulations to @foxandfriends on its unbelievable ratings hike. (860088511202029569)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>Congratulations to @foxandfriends on its unbelievable ratings hike.</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-04 14:07:35</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic65.1494434496011">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/860087334519414784"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>The Fake News media is officially out of control. They will do or say anything in order to get attention - never been a time like this! (860087334519414784)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>The Fake News media is officially out of control. They will do or say anything in order to get attention - never been a time like this!</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-04 14:02:54</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic66.1494434496011">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/860083874893897728"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>...allegations of unmasking Trump transition officials. Not good! (860083874893897728)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>...allegations of unmasking Trump transition officials. Not good!</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-04 13:49:10</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic67.1494434496012">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/860081707315232771"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>Susan Rice, the former National Security Advisor to President Obama, is refusing to testify before a Senate Subcommittee next week on..... (860081707315232771)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>Susan Rice, the former National Security Advisor to President Obama, is refusing to testify before a Senate Subcommittee next week on.....</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-04 13:40:33</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic68.1494434496012">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/859874689442775045"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>It was an honor to stop by a #SchoolChoice event hosted by @VP Pence and @usedgov Secretary @BetsyDeVosED at the… https://t.co/B8VxVsYNHA (859874689442775045)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>It was an honor to stop by a #SchoolChoice event hosted by @VP Pence and @usedgov Secretary @BetsyDeVosED at the… https://t.co/B8VxVsYNHA</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-03 23:57:56</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic69.1494434496012">
+		<subjectIdentifier href="http://wandora.org/date/2017-05-03"/>
+		<instanceOf>
+			<topicRef href="#topic9474.1493218750812"/>
+		</instanceOf>
+		<name>
+			<value>2017-05-03</value>
+		</name>
+	</topic>
+	<topic id="topic70.1494434496013">
+		<subjectIdentifier href="http://twitter.com/search?q=SchoolChoice"/>
+		<instanceOf>
+			<topicRef href="#topic9495.1493218750814"/>
+		</instanceOf>
+		<name>
+			<value>SchoolChoice</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>SchoolChoice</resourceData>
+			</variant>
+		</name>
+	</topic>
+	<topic id="topic71.1494434496013">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/859604996236742656"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>...Trump/Russia story was an excuse used by the Democrats as justification for losing the election. Perhaps Trump just ran a great campaign? (859604996236742656)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>...Trump/Russia story was an excuse used by the Democrats as justification for losing the election. Perhaps Trump just ran a great campaign?</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-03 06:06:16</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic72.1494434496013">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/859601184285491201"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>FBI Director Comey was the best thing that ever happened to Hillary Clinton in that he gave her a free pass for many bad deeds! The phony... (859601184285491201)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>FBI Director Comey was the best thing that ever happened to Hillary Clinton in that he gave her a free pass for many bad deeds! The phony...</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-03 05:51:07</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic73.1494434496014">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/859514893418082310"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>Congratulations to the winners of the Commander-in-Chief's Trophy, the great Air Force Falcons! 
+Watch:… https://t.co/HyxxFCfaUh (859514893418082310)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>Congratulations to the winners of the Commander-in-Chief's Trophy, the great Air Force Falcons! 
+Watch:… https://t.co/HyxxFCfaUh</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-03 00:08:14</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic74.1494434496014">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/859393829505552385"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>either elect more Republican Senators in 2018 or change the rules now to 51%. Our country needs a good &#34;shutdown&#34; in September to fix mess! (859393829505552385)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>either elect more Republican Senators in 2018 or change the rules now to 51%. Our country needs a good &#34;shutdown&#34; in September to fix mess!</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-02 16:07:10</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic75.1494434496014">
+		<subjectIdentifier href="http://wandora.org/date/2017-05-02"/>
+		<instanceOf>
+			<topicRef href="#topic9474.1493218750812"/>
+		</instanceOf>
+		<name>
+			<value>2017-05-02</value>
+		</name>
+	</topic>
+	<topic id="topic76.1494434496015">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/859392449181093888"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>The reason for the plan negotiated between the Republicans and Democrats is that we need 60 votes in the Senate which are not there! We.... (859392449181093888)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>The reason for the plan negotiated between the Republicans and Democrats is that we need 60 votes in the Senate which are not there! We....</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-02 16:01:41</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic77.1494434496015">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/859209801175269376"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>President Andrew Jackson, who died 16 years before the Civil War started, saw it coming and was angry. Would never have let it happen! (859209801175269376)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>President Andrew Jackson, who died 16 years before the Civil War started, saw it coming and was angry. Would never have let it happen!</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-02 03:55:54</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic78.1494434496016">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/859143061678501892"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>#ICYMI- On Saturday I signed two EO's to help keep jobs &amp; wealth in our country.
+EO1: https://t.co/XJggnJAiPi 
+EO2:… https://t.co/2iEten4SVl (859143061678501892)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>#ICYMI- On Saturday I signed two EO's to help keep jobs &amp; wealth in our country.
+EO1: https://t.co/XJggnJAiPi 
+EO2:… https://t.co/2iEten4SVl</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-01 23:30:42</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic79.1494434496016">
+		<subjectIdentifier href="http://wandora.org/date/2017-05-01"/>
+		<instanceOf>
+			<topicRef href="#topic9474.1493218750812"/>
+		</instanceOf>
+		<name>
+			<value>2017-05-01</value>
+		</name>
+	</topic>
+	<topic id="topic80.1494434496016">
+		<subjectIdentifier href="http://45.wh.gov/kePKzK"/>
+		<instanceOf>
+			<topicRef href="#topic9479.1493218750813"/>
+		</instanceOf>
+	</topic>
+	<topic id="topic81.1494434496017">
+		<subjectIdentifier href="http://twitter.com/realDonaldTrump/status/859127705366921216"/>
+		<instanceOf>
+			<topicRef href="#topic9470.1493218750812"/>
+			<topicRef href="#topic0.1494434495380"/>
+		</instanceOf>
+		<name>
+			<value>This month we celebrate the contributions of Asian Americans &amp; Pacific Islanders that enrich our Nation. https://t.co/rEJi9ahOaY (859127705366921216)</value>
+			<variant>
+				<scope>
+					<topicRef href="#topic9469.1493218750812"/>
+					<topicRef href="#topic9466.1493218750290"/>
+				</scope>
+				<resourceData>This month we celebrate the contributions of Asian Americans &amp; Pacific Islanders that enrich our Nation. https://t.co/rEJi9ahOaY</resourceData>
+			</variant>
+		</name>
+		<occurrence>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<scope>
+				<topicRef href="#topic9466.1493218750290"/>
+			</scope>
+			<resourceData>2017-05-01 22:29:41</resourceData>
+		</occurrence>
+	</topic>
+	<topic id="topic82.1494434496017">
+		<subjectIdentifier href="http://whitehouse.gov/the-press-offi…"/>
+		<instanceOf>
+			<topicRef href="#topic9479.1493218750813"/>
+		</instanceOf>
+	</topic>
 	<association>
 		<type>
 			<topicRef href="#topic9473.1493218750812"/>
@@ -4607,6 +6370,2352 @@ https://t.co/vjZkGTyQb9</resourceData>
 				<topicRef href="#topic9474.1493218750812"/>
 			</type>
 			<topicRef href="#topic9560.1493218750818"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic1.1494434495981"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic1.1494434495981"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic2.1494434495984"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic3.1494434495984"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic3.1494434495984"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic2.1494434495984"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic4.1494434495985"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic4.1494434495985"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic2.1494434495984"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic5.1494434495985"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic5.1494434495985"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic2.1494434495984"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic6.1494434495986"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic6.1494434495986"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic2.1494434495984"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9479.1493218750813"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic6.1494434495986"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9479.1493218750813"/>
+			</type>
+			<topicRef href="#topic7.1494434495987"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic8.1494434495988"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic8.1494434495988"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic2.1494434495984"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic9.1494434495989"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic9.1494434495989"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic2.1494434495984"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9479.1493218750813"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic9.1494434495989"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9479.1493218750813"/>
+			</type>
+			<topicRef href="#topic10.1494434495989"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic11.1494434495990"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic11.1494434495990"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic2.1494434495984"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic12.1494434495990"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic12.1494434495990"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic2.1494434495984"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic13.1494434495991"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic13.1494434495991"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic2.1494434495984"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9495.1493218750814"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic13.1494434495991"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9495.1493218750814"/>
+			</type>
+			<topicRef href="#topic14.1494434495991"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic15.1494434495992"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic15.1494434495992"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic2.1494434495984"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9479.1493218750813"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic15.1494434495992"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9479.1493218750813"/>
+			</type>
+			<topicRef href="#topic16.1494434495992"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic17.1494434495992"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic17.1494434495992"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic18.1494434495993"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9479.1493218750813"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic17.1494434495992"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9479.1493218750813"/>
+			</type>
+			<topicRef href="#topic9485.1493218750813"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic19.1494434495993"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic19.1494434495993"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic18.1494434495993"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9495.1493218750814"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic19.1494434495993"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9495.1493218750814"/>
+			</type>
+			<topicRef href="#topic20.1494434495994"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic21.1494434495994"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic21.1494434495994"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic18.1494434495993"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic22.1494434495995"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic22.1494434495995"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic18.1494434495993"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic23.1494434495995"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic23.1494434495995"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic18.1494434495993"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic24.1494434495996"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic24.1494434495996"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic25.1494434495996"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9479.1493218750813"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic24.1494434495996"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9479.1493218750813"/>
+			</type>
+			<topicRef href="#topic9485.1493218750813"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic26.1494434495997"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic26.1494434495997"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic25.1494434495996"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic27.1494434495997"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic27.1494434495997"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic25.1494434495996"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic28.1494434495998"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic28.1494434495998"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic25.1494434495996"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic29.1494434495998"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic29.1494434495998"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic25.1494434495996"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic30.1494434495999"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic30.1494434495999"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic25.1494434495996"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic31.1494434495999"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic31.1494434495999"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic32.1494434496000"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic33.1494434496000"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic33.1494434496000"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic32.1494434496000"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic34.1494434496000"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic34.1494434496000"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic32.1494434496000"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic35.1494434496001"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic35.1494434496001"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic32.1494434496000"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9495.1493218750814"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic35.1494434496001"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9495.1493218750814"/>
+			</type>
+			<topicRef href="#topic36.1494434496001"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9477.1493218750813"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic35.1494434496001"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9477.1493218750813"/>
+			</type>
+			<topicRef href="#topic37.1494434496001"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic38.1494434496002"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic38.1494434496002"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic32.1494434496000"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic39.1494434496002"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic39.1494434496002"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic32.1494434496000"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic40.1494434496003"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic40.1494434496003"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic41.1494434496003"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic42.1494434496003"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic42.1494434496003"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic41.1494434496003"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic43.1494434496003"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic43.1494434496003"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic41.1494434496003"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic44.1494434496004"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic44.1494434496004"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic45.1494434496004"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9495.1493218750814"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic44.1494434496004"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9495.1493218750814"/>
+			</type>
+			<topicRef href="#topic46.1494434496004"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9477.1493218750813"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic44.1494434496004"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9477.1493218750813"/>
+			</type>
+			<topicRef href="#topic47.1494434496005"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic48.1494434496005"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic48.1494434496005"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic45.1494434496004"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9477.1493218750813"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic48.1494434496005"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9477.1493218750813"/>
+			</type>
+			<topicRef href="#topic49.1494434496005"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic50.1494434496005"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic50.1494434496005"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic45.1494434496004"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic51.1494434496006"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic51.1494434496006"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic45.1494434496004"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic52.1494434496006"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic52.1494434496006"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic45.1494434496004"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic53.1494434496007"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic53.1494434496007"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic45.1494434496004"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9479.1493218750813"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic53.1494434496007"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9479.1493218750813"/>
+			</type>
+			<topicRef href="#topic9485.1493218750813"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic54.1494434496007"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic54.1494434496007"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic45.1494434496004"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9479.1493218750813"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic54.1494434496007"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9479.1493218750813"/>
+			</type>
+			<topicRef href="#topic9485.1493218750813"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic55.1494434496008"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic55.1494434496008"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic56.1494434496008"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic57.1494434496008"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic57.1494434496008"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic56.1494434496008"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic58.1494434496009"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic58.1494434496009"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic56.1494434496008"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic59.1494434496009"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic59.1494434496009"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic56.1494434496008"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9495.1493218750814"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic59.1494434496009"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9495.1493218750814"/>
+			</type>
+			<topicRef href="#topic60.1494434496009"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9479.1493218750813"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic59.1494434496009"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9479.1493218750813"/>
+			</type>
+			<topicRef href="#topic9485.1493218750813"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic61.1494434496010"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic61.1494434496010"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic56.1494434496008"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9479.1493218750813"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic61.1494434496010"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9479.1493218750813"/>
+			</type>
+			<topicRef href="#topic62.1494434496010"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic63.1494434496010"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic63.1494434496010"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic56.1494434496008"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic64.1494434496011"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic64.1494434496011"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic56.1494434496008"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic65.1494434496011"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic65.1494434496011"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic56.1494434496008"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic66.1494434496011"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic66.1494434496011"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic56.1494434496008"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic67.1494434496012"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic67.1494434496012"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic56.1494434496008"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic68.1494434496012"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic68.1494434496012"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic69.1494434496012"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9495.1493218750814"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic68.1494434496012"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9495.1493218750814"/>
+			</type>
+			<topicRef href="#topic70.1494434496013"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9479.1493218750813"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic68.1494434496012"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9479.1493218750813"/>
+			</type>
+			<topicRef href="#topic9485.1493218750813"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic71.1494434496013"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic71.1494434496013"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic69.1494434496012"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic72.1494434496013"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic72.1494434496013"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic69.1494434496012"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic73.1494434496014"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic73.1494434496014"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic69.1494434496012"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9479.1493218750813"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic73.1494434496014"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9479.1493218750813"/>
+			</type>
+			<topicRef href="#topic9485.1493218750813"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic74.1494434496014"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic74.1494434496014"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic75.1494434496014"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic76.1494434496015"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic76.1494434496015"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic75.1494434496014"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic77.1494434496015"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic77.1494434496015"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic75.1494434496014"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic78.1494434496016"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic78.1494434496016"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic79.1494434496016"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9495.1493218750814"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic78.1494434496016"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9495.1493218750814"/>
+			</type>
+			<topicRef href="#topic9494.1493218750814"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9479.1493218750813"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic78.1494434496016"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9479.1493218750813"/>
+			</type>
+			<topicRef href="#topic80.1494434496016"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9479.1493218750813"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic78.1494434496016"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9479.1493218750813"/>
+			</type>
+			<topicRef href="#topic9485.1493218750813"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9473.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic81.1494434496017"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9472.1493218750812"/>
+			</type>
+			<topicRef href="#topic9471.1493218750812"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9474.1493218750812"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic81.1494434496017"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9474.1493218750812"/>
+			</type>
+			<topicRef href="#topic79.1494434496016"/>
+		</role>
+	</association>
+	<association>
+		<type>
+			<topicRef href="#topic9479.1493218750813"/>
+		</type>
+		<role>
+			<type>
+				<topicRef href="#topic9470.1493218750812"/>
+			</type>
+			<topicRef href="#topic81.1494434496017"/>
+		</role>
+		<role>
+			<type>
+				<topicRef href="#topic9479.1493218750813"/>
+			</type>
+			<topicRef href="#topic82.1494434496017"/>
 		</role>
 	</association>
 </topicMap>
